@@ -1,5 +1,5 @@
 package adiministracao;
 
-public class Coordenador {
+public class Agenda {
 
 }

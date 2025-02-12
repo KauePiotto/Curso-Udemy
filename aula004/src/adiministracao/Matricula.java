@@ -1,5 +1,5 @@
 package adiministracao;
 
-public class Diretor {
+public class Matricula {
 
 }
