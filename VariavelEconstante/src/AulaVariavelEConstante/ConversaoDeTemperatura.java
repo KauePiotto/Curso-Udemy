@@ -20,6 +20,6 @@ public class ConversaoDeTemperatura {
 
 		c = (f - ajuste) * fator;
 
-		System.out.println("A temperatura em Celsius é " + c);
+		System.out.println("O resultado é " + c + " ºC");
 	}
 }
