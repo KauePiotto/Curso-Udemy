@@ -13,13 +13,12 @@ public class ConversaoDeTemperatura {
 		double f = 0 ;
 		double c ;
 		final double ajuste = 32;
-		final int y = 5;
-		final double z = 9.0;
+		final double fator = 5 / 9.0;
 
 		System.out.println("Informe a temperatura em Fahrenheit");
 		f = scan.nextDouble();
 
-		c = (f - ajuste) * y / z;
+		c = (f - ajuste) * fator;
 
 		System.out.println("A temperatura em Celsius é " + c);
 	}
