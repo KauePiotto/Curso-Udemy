@@ -1,4 +1,4 @@
-package AulaVariavelEConstante;
+package fundamentos;
 
 import java.util.Scanner;
 

@@ -1,0 +1,22 @@
+**Representa os valores primitivos numericos dos inteiros**
+
+Byte = Utiliza 1 byte tem um intervalo de -128 até +127 de byte
+Short = Utiliza 2 byte
+Int = Utiliza 4 byte
+Long = Utiliza 8 byte
+
+**Representa os valores primitivos numericos dos decimais**
+
+Float
+Double
+
+**Representa os valores primitivos de Caracteres**
+
+Char = é um caractere determinado por aspas simples
+Boolean = Obrigatariamente em java sempre sera em false ou true
+
+
+
+
+
+

@@ -1,4 +1,4 @@
-package AulaVariavelEConstante;
+package fundamentos;
 public class AreaCircuferencia {
     public static void main(String[] args) {
         /*
