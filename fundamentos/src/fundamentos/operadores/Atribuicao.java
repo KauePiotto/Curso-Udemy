@@ -18,6 +18,7 @@ public class Atribuicao {
 		c *= b;
 		c /= a;
 		
+		//Operador unario de incremneto e funciona como atribuição acresentando mais um valor
 		c++; //É a mesma coisa de c = c + 1;
 		
 		System.out.println(c);
